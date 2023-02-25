@@ -13,7 +13,7 @@ class Config(object):
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001711211283"))
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "Mdisk_search_ary_bot")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "5079629749"))
-    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://aryan1082:aryan_1082@cluster0.jmqpi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Aryan9693:Aryan9693@cluster0.oeq7pff.mongodb.net/?retryWrites=true&w=majority")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b> <a href='https://t.me/starkownerbot'>Url Hunterr</a> is an open source project.
 
